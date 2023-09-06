@@ -2,7 +2,7 @@
 
 
 Currently working as SQA , Having knowledge to create web automation using Cucumber Selenium Java, Katalon and Cypress. Create mobile (Android and iOS) manual. 
-API Testing using Postman, Performance Testing using K6 And having knowledge about Project Management Tools such a Jira and Trello and Slack.
+API Testing using Postman, Performance Testing using K6 And having knowledge about Project Management Tools such a Jira, Trello and Slack.
 
 <!--
 **glorykarinaa/glorykarinaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

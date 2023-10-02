@@ -1,7 +1,7 @@
 ### Hi there, I'm Glory Sitohang 👋
 
 
-Currently working as SQA , Having knowledge to create web automation using Selenium Java, Katalon and Cypress. Create mobile (Android and iOS) manual. 
+Currently working as SQA , Having knowledge to create web automation using Katalon and Cypress. Create mobile (Android and iOS) manual. 
 API Testing using Postman, Performance Testing using K6 And having knowledge about Project Management Tools such a Jira, Trello and Slack.
 
 <!--
